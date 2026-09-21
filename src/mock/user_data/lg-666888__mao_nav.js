@@ -518,5 +518,6 @@ export const mockData = {
     }
   ],
   "title": "我的互联网资源🐱",
-  "search": "baidu"
+  "search": "baidu",
+  "icp": "京ICP备96875443号-1"
 }
