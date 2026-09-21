@@ -204,6 +204,13 @@ export const mockData = {
           "url": "https://mail.chatgpt.org.uk/",
           "description": "免费邮箱站点",
           "icon": "https://www.faviconextractor.com/favicon/mail.chatgpt.org.uk"
+        },
+        {
+          "id": "site-1789961864065",
+          "name": "猫猫导航",
+          "url": "https://github.com/maodeyu180/mao_nav",
+          "description": "轻量导航站部署",
+          "icon": "https://www.faviconextractor.com/favicon/github.com"
         }
       ]
     },
