@@ -89,6 +89,13 @@ export const mockData = {
           "url": "https://www.lg120.cc.cd/admin",
           "description": "节点管理",
           "icon": "https://www.faviconextractor.com/favicon/www.lg120.cc.cd"
+        },
+        {
+          "id": "site-1790039240441",
+          "name": "lunaTV",
+          "url": "http://zhp.x3322.net:65526/",
+          "description": "在线影视",
+          "icon": "https://www.faviconextractor.com/favicon/zhp.x3322.net:65526"
         }
       ]
     },
