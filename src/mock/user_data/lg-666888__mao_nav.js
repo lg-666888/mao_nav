@@ -54,6 +54,13 @@ export const mockData = {
           "url": "https://yinghezhinan.com/",
           "description": "工具箱",
           "icon": "https://www.faviconextractor.com/favicon/yinghezhinan.com"
+        },
+        {
+          "id": "site-1790038495528",
+          "name": "飞牛NAS",
+          "url": "https://www.970598.xyz",
+          "description": "NAS",
+          "icon": ""
         }
       ]
     },
