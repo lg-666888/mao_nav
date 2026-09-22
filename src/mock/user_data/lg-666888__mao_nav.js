@@ -61,6 +61,27 @@ export const mockData = {
           "url": "https://www.970598.xyz",
           "description": "NAS",
           "icon": ""
+        },
+        {
+          "id": "site-1790038596950",
+          "name": "NAS",
+          "url": "https://www.lgfn.cc.cd",
+          "description": "NAS",
+          "icon": "https://www.faviconextractor.com/favicon/www.lgfn.cc.cd"
+        },
+        {
+          "id": "site-1790038657248",
+          "name": "AI生图",
+          "url": "https://lg666.cc.cd",
+          "description": "AI生图",
+          "icon": "https://www.faviconextractor.com/favicon/lg666.cc.cd"
+        },
+        {
+          "id": "site-1790038820571",
+          "name": "Inkstone",
+          "url": "https://www.lg999.cc.cd/",
+          "description": "记事本",
+          "icon": "https://www.faviconextractor.com/favicon/www.lg999.cc.cd"
         }
       ]
     },
