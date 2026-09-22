@@ -82,6 +82,13 @@ export const mockData = {
           "url": "https://www.lg999.cc.cd/",
           "description": "记事本",
           "icon": "https://www.faviconextractor.com/favicon/www.lg999.cc.cd"
+        },
+        {
+          "id": "site-1790038931617",
+          "name": "节点设置",
+          "url": "https://www.lg120.cc.cd/admin",
+          "description": "节点管理",
+          "icon": "https://www.faviconextractor.com/favicon/www.lg120.cc.cd"
         }
       ]
     },
