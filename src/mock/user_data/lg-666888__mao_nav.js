@@ -96,6 +96,20 @@ export const mockData = {
           "url": "http://zhp.x3322.net:65526/",
           "description": "在线影视",
           "icon": "https://www.faviconextractor.com/favicon/zhp.x3322.net:65526"
+        },
+        {
+          "id": "site-1790130134999",
+          "name": "imgbed",
+          "url": "https://www.lg119.cc.cd/",
+          "description": "图床",
+          "icon": "https://cloudflare-imgbed-9ur.pages.dev/file/1790130124900_com.imo.android.imoim.png"
+        },
+        {
+          "id": "site-1790130189810",
+          "name": "imgbed",
+          "url": "https://cloudflare-imgbed-9ur.pages.dev/",
+          "description": "图床",
+          "icon": "https://cloudflare-imgbed-9ur.pages.dev/file/1790130124900_com.imo.android.imoim.png"
         }
       ]
     },
