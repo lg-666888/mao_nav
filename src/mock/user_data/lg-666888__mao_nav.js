@@ -110,6 +110,13 @@ export const mockData = {
           "url": "https://cloudflare-imgbed-9ur.pages.dev/",
           "description": "图床",
           "icon": "https://cloudflare-imgbed-9ur.pages.dev/file/1790130124900_com.imo.android.imoim.png"
+        },
+        {
+          "id": "site-1790147125865",
+          "name": "image-tools",
+          "url": "https://image-tools-74h.pages.dev/upscale/",
+          "description": "在线图片放大工具",
+          "icon": "https://www.faviconextractor.com/favicon/image-tools-74h.pages.dev"
         }
       ]
     },
