@@ -60,14 +60,14 @@ export const mockData = {
           "name": "飞牛NAS",
           "url": "https://www.970598.xyz",
           "description": "NAS",
-          "icon": ""
+          "icon": "https://www.lg119.cc.cd/file/1790129073431_111.png"
         },
         {
           "id": "site-1790038596950",
           "name": "NAS",
           "url": "https://www.lgfn.cc.cd",
           "description": "NAS",
-          "icon": "https://www.faviconextractor.com/favicon/www.lgfn.cc.cd"
+          "icon": "https://www.lg119.cc.cd/file/1790129073431_111.png"
         },
         {
           "id": "site-1790038657248",
