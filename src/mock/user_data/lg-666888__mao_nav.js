@@ -124,6 +124,13 @@ export const mockData = {
           "url": "https://lg888.us.ci/trojan",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1790219070250",
+          "name": "V2ray worker",
+          "url": "https://www.lg666.us.ci/?message=success",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.lg666.us.ci"
         }
       ]
     },
