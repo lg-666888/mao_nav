@@ -117,6 +117,13 @@ export const mockData = {
           "url": "https://image-tools-74h.pages.dev/upscale/",
           "description": "在线图片放大工具",
           "icon": "https://www.faviconextractor.com/favicon/image-tools-74h.pages.dev"
+        },
+        {
+          "id": "site-1790218028756",
+          "name": "trojan",
+          "url": "https://lg888.us.ci/trojan",
+          "description": "",
+          "icon": ""
         }
       ]
     },
