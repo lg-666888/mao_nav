@@ -131,6 +131,13 @@ export const mockData = {
           "url": "https://www.lg666.us.ci/?message=success",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.lg666.us.ci"
+        },
+        {
+          "id": "site-1791505527322",
+          "name": "节点订阅",
+          "url": "https://www.lg120.ccwu.cc/",
+          "description": "cd7d9877-357b-495c-a5dc-c76e645ae5e1",
+          "icon": "https://www.faviconextractor.com/favicon/www.lg120.ccwu.cc"
         }
       ]
     },
