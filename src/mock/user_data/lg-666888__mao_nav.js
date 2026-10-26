@@ -138,6 +138,13 @@ export const mockData = {
           "url": "https://www.lg120.ccwu.cc/",
           "description": "cd7d9877-357b-495c-a5dc-c76e645ae5e1",
           "icon": "https://www.faviconextractor.com/favicon/www.lg120.ccwu.cc"
+        },
+        {
+          "id": "site-1792986043658",
+          "name": "新闻热点",
+          "url": "https://www.lg111.cc.cd",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.lg111.cc.cd"
         }
       ]
     },
