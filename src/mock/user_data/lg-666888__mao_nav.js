@@ -152,6 +152,13 @@ export const mockData = {
           "url": "https://www.lg110.cc.cd/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.lg110.cc.cd"
+        },
+        {
+          "id": "site-1794726685837",
+          "name": "精品软件导航",
+          "url": "https://dh.89729981.xyz/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/dh.89729981.xyz"
         }
       ]
     },
