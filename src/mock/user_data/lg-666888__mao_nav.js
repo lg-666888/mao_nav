@@ -145,6 +145,13 @@ export const mockData = {
           "url": "https://www.lg111.cc.cd",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.lg111.cc.cd"
+        },
+        {
+          "id": "site-1794726516251",
+          "name": "搞机工具箱",
+          "url": "https://www.lg110.cc.cd/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.lg110.cc.cd"
         }
       ]
     },
