@@ -159,6 +159,13 @@ export const mockData = {
           "url": "https://dh.89729981.xyz/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/dh.89729981.xyz"
+        },
+        {
+          "id": "site-1795362788175",
+          "name": "我的临时邮箱",
+          "url": "https://mail.lg999.us.ci",
+          "description": "admin@lg999.us.ci",
+          "icon": "https://www.faviconextractor.com/favicon/mail.lg999.us.ci"
         }
       ]
     },
