@@ -80,7 +80,7 @@ export const mockData = {
           "id": "site-1790038820571",
           "name": "Inkstone",
           "url": "https://www.lg999.cc.cd/",
-          "description": "记事本",
+          "description": "记事本 用户名：longge 大小@小写",
           "icon": "https://www.faviconextractor.com/favicon/www.lg999.cc.cd"
         },
         {
